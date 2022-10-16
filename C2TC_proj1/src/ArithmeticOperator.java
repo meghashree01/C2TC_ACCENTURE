@@ -12,7 +12,6 @@ public class ArithmeticOperator {
 		System.out.println(x+y);
 		System.out.println(--x);
 		System.out.println(++y);
-
 	}
 
 }
